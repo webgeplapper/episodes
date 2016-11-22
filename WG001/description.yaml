@@ -1,0 +1,132 @@
+meta:
+  title: WG 001: CakePHP
+  slug: 01-cakephp
+  publishDate: 2014-12-18T22:51:99.00+01:00
+  public: true
+  duration: 00:47:06.273
+  catcherSummary: |
+    In dieser Episode erklärt uns Mark Scherer, Core-Entwickler von CakePHP,
+    was für ihn ein Framework ausmacht, warum sie so nützlich sind und was im
+    speziellen CakePHP für ihn zu dem Framework seiner Wahl macht.
+  websiteSummary: |
+    CakePHP gehört nicht nur zu den Urgesteinen der Webframeworks im PHP-Bereich,
+    sondern ist auch eines derer mit der größten Community.
+
+    Kurz vor dem Release der nächsten Major-Version hat sich Mark Scherer für ein
+    Interview bereit erklärt um über seine Erfahrungen als Core- Entwickler zu
+    sprechen und uns einen Einblick in die Philosophie von CakePHP zu gewähren.
+
+    {{more}}
+
+    Und wer auch nach dieser Episode noch mehr Cake auf die Ohren bekommen
+    möchte, dem sei das Interview von
+    [Three Devs and a Maybe und James Watts](http://threedevsandamaybe.com/delving-into-cakephp-with-james-watts/)
+    (Community-Manager von CakePHP) und der [CakePHP-Podcast](http://podcast.cakephp.org)
+    wärmstens empfohlen.
+
+    **Edit:\** Zusätzlich hat sich Mark
+    [in seinem Blog](http://www.dereuromark.de/2014/12/23/why-cakephp/) dem
+    Thema nochmals in sehr ausführlicher und schriftlicher Art und Weise geäußert.
+    Für Interessierte auf jeden Fall ein absoluter Lesetipp!
+
+chaptermarks:
+  - 00:00:00.000 Intro
+  - 00:00:13.162 Vorstellung
+  - 00:02:01.301 Wozu ein Framework?
+  - 00:04:05.002 CMS Vs Frameworks
+  - 00:06:34.047 Cakes Release-Philosophie
+  - 00:07:34.205 Cakes Bake-Tools
+  - 00:09:59.881 Conventions over Configuration
+  - 00:12:09.625 Security in Cake
+  - 00:13:42.320 Contributor / CakeFoundation
+  - 00:15:43.904 Plugins und Core-Features
+  - 00:19:17.614 Cake, Laravel und deren Popularität
+  - 00:21:08.248 Das ORM in CakePHP 3
+  - 00:25:12.121 Custom Finder
+  - 00:26:48.984 MVC in Cake
+  - 00:28:08.099 Best-Practises und Programmierstil
+  - 00:34:26.226 Caching
+  - 00:38:25.357 Neu in Cake einsteigen: Version 3 oder doch noch 2?
+  - 00:40:05.373 Das Cookbook / Bookmark-Tutorial
+  - 00:42:27.283 #cakephp auf Freenode
+  - 00:43:33.931 Das CakeFest
+  - 00:45:32.763 Verabschiedung
+
+formats:
+  video:
+    youtube: false
+  audio:
+    cover: './cover.png'
+    mp3: './episode.mp3'
+    opus: './episode.opus'
+    m4a: './episode.m4a'
+    soundcloud: false
+
+shownotes:
+  - 00:00:13 Vorstellung #chapter
+  - 00:00:30 Mark auf Twitter <http://twitter.com/dereuromark>
+  - 00:00:31 Marks Blog <http://dereuromark.de>
+  - 00:00:32 Mark auf Github <http://github.com/dereuromark>
+  - 00:00:54 Fotograf.de <http://ww1.fotograf.de/>
+  - 00:01:00 CakePHP <http://cakephp.org/>
+  - 00:01:58 „Mit einem Framework schaffe ich in Wochen, was ich sonst in Jahren nicht so schön hinbekommen hätte“ #quote
+  - 00:02:01 Wozu ein Framework? #chapter
+  - 00:02:24 Pagination <http://en.wikipedia.org/wiki/Pagination#Pagination_in_web_content> #wikipediaorg
+  - 00:02:25 Pagination in CakePHP <http://book.cakephp.org/2.0/en/core-libraries/components/pagination.html>
+  - 00:03:08 „CakePHP ist eines der ältesten Frameworks“ #quote
+  - 00:03:25 „Rapid Development spielt die zentrale Rolle in CakePHP“ #quote
+  - 00:03:48 CRUD: Create, Read, Update & Delete <http://en.wikipedia.org/wiki/Create,_read,_update_and_delete> #wikipediaorg
+  - 00:03:50 Scaffolding (Baking) in CakePHP <http://book.cakephp.org/2.0/en/console-and-shells/code-generation-with-bake.html>
+  - 00:04:05 CMS Vs Frameworks #chapter
+  - 00:04:26 CMS: Drupal <http://drupal.org>
+  - 00:04:50 CMS: Joomla <http://www.joomla.org>
+  - 00:06:34 Cakes Release-Philosophie #chapter
+  - 00:07:34 Cakes Bake-Tools #chapter
+  - 00:08:08 Cakes Naming-Conventions <http://book.cakephp.org/2.0/en/getting-started/cakephp-conventions.html>
+  - 00:09:59 Convention over Configuration #chapter
+  - 00:10:00 CoC in der Wikipedia <http://en.wikipedia.org/wiki/Convention_over_configuration> #wikipediaorg
+  - 00:12:00 „Alles was nicht definiert werden muss, macht den Code schmaler und wartbarer“ #quote
+  - 00:12:09 Security in Cake #chapter
+  - 00:13:42 Contributor / CakeFoundation #chapter
+  - 00:14:00 CakePHP auf Github <http://github.com/cakephp/cakephp>
+  - 00:14:03 Contributors <https://github.com/cakephp/cakephp/graphs/contributors>
+  - 00:14:16 Das Core-Team <https://github.com/orgs/cakephp/people>
+  - 00:15:22 CakeDC <http://www.cakedc.com>
+  - 00:15:24 Cake-Foundation <http://cakefoundation.org>
+  - 00:15:43 Plugins und Core-Features #chapter
+  - 00:16:19 Plugins auf CakePHP <http://plugins.cakephp.org>
+  - 00:16:35 Ressourcenliste von FriendsOfCake (Plugins, Blogs, Bücher) <https://github.com/FriendsOfCake/awesome-cakephp>
+  - 00:17:08 Authentication in CakePHP <http://book.cakephp.org/2.0/en/core-libraries/components/authentication.html>
+  - 00:19:12 REST in Cake 3 <http://book.cakephp.org/3.0/en/development/rest.html>
+  - 00:19:17 Cake, Laravel und deren Popularität #chapter
+  - 00:19:35 Namespaces in PHP <http://php.net/manual/de/language.namespaces.php>
+  - 00:21:08 Das ORM in CakePHP 3 #chapter
+  - 00:21:10 New ORM Upgrade Guide <http://book.cakephp.org/3.0/en/appendices/orm-migration.html>
+  - 00:22:03 Doctrine <http://www.doctrine-project.org>
+  - 00:25:12 Custom Finder #chapter
+  - 00:25:13 Custom Finder im Cookbok <http://book.cakephp.org/3.0/en/orm/retrieving-data-and-resultsets.html#custom-finder-methods>
+  - 00:26:48 MVC in Cake #chapter
+  - 00:26:55 „Generell sollte man in Cake schlanke Controller schreiben“ #quote
+  - 00:28:08 Best-Practises und Programmierstil #chapter
+  - 00:28:49 „In der Regel ist an Frameworks orientierter Code immer besser“ #quote
+  - 00:30:44 DateTime-Library Carbon <https://github.com/briannesbitt/Carbon>
+  - 00:33:26 Zend Framework <http://framework.zend.com>
+  - 00:33:49 Symfony <http://symfony.com>
+  - 00:33:50 Laravel <http://laravel.com>
+  - 00:34:00 YAML <http://www.yaml.org>
+  - 00:34:26 Caching #chapter
+  - 00:38:25 Neu in Cake einsteigen: Version 3 oder doch noch 2? #chapter
+  - 00:38:49 „Für Neueinsteiger ist jetzt genau die richtige Zeit um mit Cake 3 anzufangen“ #quote
+  - 00:40:05 Das Cookbook / Bookmark-Tutorial #chapter
+  - 00:40:06 Das Cookbook für Cake 3 <http://book.cakephp.org/3.0/en/contents.html>
+  - 00:40:07 Das Cookbook für Cake 2 <http://book.cakephp.org/2.0/en/index.html>
+  - 00:40:40 Das Bookmarker-Tutorial <http://book.cakephp.org/3.0/en/tutorials-and-examples/bookmarks/intro.html>
+  - 00:41:23 Blogliste von FriendsOfCake <https://github.com/FriendsOfCake/awesome-cakephp#cakephp-websites>
+  - 00:41:25 Tutorials von Jose <http://josediazgonzalez.com>
+  - 00:42:27 .#cakephp auf Freenode #chapter
+  - 00:42:28 Freenode Webchat <http://webchat.freenode.net/?channels=cakephp>
+  - 00:43:33 Das CakeFest #chapter
+  - 00:43:50 Das CakeFest 2015 in New York <http://cakefest.org>
+  - 00:45:32 Verabschiedung #chapter
+  - 00:46:08 CakePHP Upgrade Tools <https://github.com/cakephp/upgrade>
+  - 00:46:55 Marks Plugins auf Github <https://github.com/dereuromark?tab=repositories>
