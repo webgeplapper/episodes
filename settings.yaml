@@ -1,0 +1,7 @@
+podcast:
+  name: Webgeplapper
+  author: Sven Lückenbach
+  website: http://webgeplapper.de
+
+website:
+  showStatistics: true
