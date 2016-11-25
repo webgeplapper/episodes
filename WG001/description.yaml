@@ -1,5 +1,5 @@
 meta:
-  title: WG 001: CakePHP
+  title: 'WG 001: CakePHP'
   slug: 01-cakephp
   publishDate: 2014-12-18T22:51:99.00+01:00
   public: true
@@ -46,7 +46,7 @@ chaptermarks:
   - 00:26:48.984 MVC in Cake
   - 00:28:08.099 Best-Practises und Programmierstil
   - 00:34:26.226 Caching
-  - 00:38:25.357 Neu in Cake einsteigen: Version 3 oder doch noch 2?
+  - '00:38:25.357 Neu in Cake einsteigen: Version 3 oder doch noch 2?'
   - 00:40:05.373 Das Cookbook / Bookmark-Tutorial
   - 00:42:27.283 #cakephp auf Freenode
   - 00:43:33.931 Das CakeFest
@@ -75,11 +75,11 @@ shownotes:
   - 00:02:25 Pagination in CakePHP <http://book.cakephp.org/2.0/en/core-libraries/components/pagination.html>
   - 00:03:08 „CakePHP ist eines der ältesten Frameworks“ #quote
   - 00:03:25 „Rapid Development spielt die zentrale Rolle in CakePHP“ #quote
-  - 00:03:48 CRUD: Create, Read, Update & Delete <http://en.wikipedia.org/wiki/Create,_read,_update_and_delete> #wikipediaorg
+  - '00:03:48 CRUD: Create, Read, Update & Delete <http://en.wikipedia.org/wiki/Create,_read,_update_and_delete> #wikipediaorg'
   - 00:03:50 Scaffolding (Baking) in CakePHP <http://book.cakephp.org/2.0/en/console-and-shells/code-generation-with-bake.html>
   - 00:04:05 CMS Vs Frameworks #chapter
-  - 00:04:26 CMS: Drupal <http://drupal.org>
-  - 00:04:50 CMS: Joomla <http://www.joomla.org>
+  - '00:04:26 CMS: Drupal <http://drupal.org>'
+  - '00:04:50 CMS: Joomla <http://www.joomla.org>'
   - 00:06:34 Cakes Release-Philosophie #chapter
   - 00:07:34 Cakes Bake-Tools #chapter
   - 00:08:08 Cakes Naming-Conventions <http://book.cakephp.org/2.0/en/getting-started/cakephp-conventions.html>
@@ -115,7 +115,7 @@ shownotes:
   - 00:33:50 Laravel <http://laravel.com>
   - 00:34:00 YAML <http://www.yaml.org>
   - 00:34:26 Caching #chapter
-  - 00:38:25 Neu in Cake einsteigen: Version 3 oder doch noch 2? #chapter
+  - '00:38:25 Neu in Cake einsteigen: Version 3 oder doch noch 2? #chapter'
   - 00:38:49 „Für Neueinsteiger ist jetzt genau die richtige Zeit um mit Cake 3 anzufangen“ #quote
   - 00:40:05 Das Cookbook / Bookmark-Tutorial #chapter
   - 00:40:06 Das Cookbook für Cake 3 <http://book.cakephp.org/3.0/en/contents.html>
